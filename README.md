@@ -15,7 +15,6 @@ Sou uma pessoa versátil e curiosa por natureza. Gosto de:
 
 Acredito que com esforço, disciplina e vontade, é possível alcançar qualquer meta!
 
-­
 ---
 
 ### 🛠️ Tecnologias que utilizo
