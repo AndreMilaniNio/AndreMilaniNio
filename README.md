@@ -5,10 +5,6 @@
 Olá! Meu nome é **André Milani**, tenho 18 anos e é um prazer ter você por aqui!  
 Atualmente sou estudante do curso técnico de **Desenvolvimento de Sistemas** pelo projeto **Rio Pomba Valley - Energisa**. Também tenho formação para **Eletricista Industrial** e estou concluindo o **Ensino Médio**.
 
-<p align="center">
-  <img src="./Images/Fotoperfil2.jpg" alt="Foto minha no SENAI" width="180"/>
-</p>
-
 ### 😯 O que eu gosto de fazer:
 
 Sou uma pessoa versátil e curiosa por natureza. Gosto de:
