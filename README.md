@@ -24,7 +24,7 @@ Acredito que com esforço, disciplina e vontade, é possível alcançar qualquer
 
 ### 🛠️ Tecnologias que utilizo
 
-
+<br>
 <p align="center">
   <b>HTML5 · CSS3 · JavaScript · React · Node.js · Git · GitHub · Linux</b>
 </p>
@@ -56,6 +56,7 @@ Acredito que com esforço, disciplina e vontade, é possível alcançar qualquer
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+<br>
   ­
 Cada uma dessas ferramentas faz parte do meu processo de aprendizado e crescimento como desenvolvedor.
 
