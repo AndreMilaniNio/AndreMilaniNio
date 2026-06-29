@@ -3,7 +3,7 @@
 ### 😁 Me apresentando...
 
 Olá! Meu nome é **André Milani**, tenho 18 anos e é um prazer ter você por aqui!  
-Atualmente sou estudante do curso técnico de **Desenvolvimento de Sistemas** pelo projeto **Rio Pomba Valley - Energisa**. Também tenho formação para **Eletricista Industrial** e estou concluindo o **Ensino Médio**.
+Atualmente tenho formação em **Desenvolvimento de Sistemas** pelo projeto **Rio Pomba Valley - Energisa**. Também tenho formação para **Eletricista Industrial** e estou me graduando em **Engenharia de Software**.
 
 ### 😯 O que eu gosto de fazer:
 
